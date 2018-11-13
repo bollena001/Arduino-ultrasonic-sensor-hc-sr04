@@ -33,9 +33,11 @@ To check whether you are properly connected you can open the serial monitor and 
 
 Next you will need to connect the ultrasonic sensor to the RGB LEDstrip, you can establish this by connecting the ground from the RGB LEDstrip to the ground from the NodeMCU. Then you connect the bin on the RGB LEDstrip to the selected pin of your choice. In order to make it easier you can follow me by using pin D5. 
 
-<img src="RGB_LEDstrip.JPG" width="300">
+![Serial monitor](RGB_LEDstrip.JPG)
 
 To check if the RGB LEDstrip is working accordingly you move your hand above the ultrasonic sensor at different distances, the RGB LEDstrip should then show different colours according to your code. 
 
 
-
+<img src="Groen.JPG" width="300">
+<img src="Oranje.JPG" width="300">
+<img src="Rood.JPG" width="300">
