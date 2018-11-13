@@ -10,7 +10,7 @@ For this tutorial you will need:
 - a unit to power the NodeMCU
 - the ultrasonic sensor
 - RGB LEDstrip that you can connect to the NodeMCU
--four female jumper wires
+- four female jumper wires
 
 
 ## Step 1 - Upload the code
