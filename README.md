@@ -7,4 +7,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Step 3
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo 
 ![Image description](http://brekendnieuws.nl/plaatjes/granaatappel.jpg)
-![Image description](brain-2.png | width=100)
+![Image description](brain-2.png) {:height="24px" width="48px"}
