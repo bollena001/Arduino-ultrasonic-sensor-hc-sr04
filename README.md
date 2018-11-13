@@ -12,7 +12,6 @@ For this tutorial you will need:
 - RGB LEDstrip that you can connect to the NodeMCU
 - four female jumper wires
 
-
 ## Step 1 - Upload the code
 
 <img src="https://cdn-reichelt.de/bilder/web/xxl_ws/A300/DEBO_JT_ESP8266_01.png" width="400">
@@ -31,10 +30,13 @@ To check whether you are properly connected you can open the serial monitor and 
 
 ![Serial monitor](SerialMonitor.png)
  
-
 ## Step 3 - Connect the RGB LEDstrip
 
-Next you will need to connect the ultrasonic sensor to the RGB LEDstrip, you can establish this by connecting the ground from the RGB LEDstrip to the ground from the NodeMCU. Then you connect the bin on the RGB LEDstrip to the selected pin of your choice. In order to make it easier you can follow me by using pin D5. 
+Before connecting your RGB Ledstrip you will need to install the "Adafruit NeoPixel library".
+
+Arduino --> Tools --> Manage Libraries...
+
+Next you will need to connect the NodeMCU sensor to the RGB LEDstrip, you can establish this by connecting the ground from the RGB LEDstrip to the ground from the NodeMCU. Then you connect the bin on the RGB LEDstrip to the selected pin of your choice. In order to make it easier you can follow me by using pin D5. 
 
 ![Serial monitor](RGB_LEDstrip.JPG)
 
