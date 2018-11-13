@@ -43,4 +43,6 @@ To check if the RGB LEDstrip is working accordingly you move your hand above the
 
 <img src="Groen.JPG" width="280"> <img src="Oranje.JPG" width="280"> <img src="Rood.JPG" width="280">
 
+Click [this](https://randomnerdtutorials.com/guide-for-ws2812b-addressable-rgb-led-strip-with-arduino/) link if you want to know more about RGB LEDstrips!
+
 
