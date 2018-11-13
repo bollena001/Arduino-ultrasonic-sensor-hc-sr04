@@ -1,5 +1,5 @@
 # Arduino-ultrasonic-sensor-hc-sr04-TEST
-changing the color from your RGB Led Strip with your ultrasonic sensor.
+Changing the color from your RGB Led Strip by using the ultrasonic sensor.
 ![Image description](https://cdn-reichelt.de/bilder/web/xxl_ws/A300/DEBO_JT_ESP8266_01.png)
 
 For this tutorial you will need: 
