@@ -1,6 +1,6 @@
 # Arduino-ultrasonic-sensor-hc-sr04-TEST
 Changing the color from your RGB Led Strip by using the ultrasonic sensor.
-![Image description](https://cdn-reichelt.de/bilder/web/xxl_ws/A300/DEBO_JT_ESP8266_01.png)
+![NodeMCU](https://cdn-reichelt.de/bilder/web/xxl_ws/A300/DEBO_JT_ESP8266_01.png)
 
 For this tutorial you will need:
 
@@ -23,6 +23,7 @@ Next you connect the ground from the ultrasonic sensor to the ground from the No
 If you require more clarification you can use this video: https://www.youtube.com/watch?v=7nxOZek1iGI that describes the steps clearly.
 
 To check whether you are properly connected you can open the serial monitor and check if you get the correct values from the ultrasonic sensor by moving your hand above the sensor. 
+![Serial monitor](waardes.png)
  
 
 ## Step 3 - Connect the RGB LEDstrip
