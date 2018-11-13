@@ -2,13 +2,15 @@
 Changing the color from your RGB Led Strip by using the ultrasonic sensor.
 ![Image description](https://cdn-reichelt.de/bilder/web/xxl_ws/A300/DEBO_JT_ESP8266_01.png)
 
-For this tutorial you will need: 
-- four female jumper wires
-- the ultrasonic sensor
-- the NodeMCU
+For this tutorial you will need:
+
+- a NodeMCU
 - a USB to micro-USB cable
 - a unit to power the NodeMCU
+- the ultrasonic sensor
 - RGB LEDstrip that you can connect to the NodeMCU
+-four female jumper wires
+
 
 ## Step 1 - Upload the code
 
