@@ -32,7 +32,7 @@ To check whether you are properly connected you can open the serial monitor and 
  
 ## Step 3 - Connect the RGB LEDstrip
 
-Before connecting your RGB Ledstrip you will need to install the "Adafruit NeoPixel library".
+Before connecting your RGB LEDstrip you will need to install the "Adafruit NeoPixel library".
 
 Arduino --> Tools --> Manage Libraries...
 
