@@ -25,7 +25,8 @@ Next you connect the ground from the ultrasonic sensor to the ground from the No
 
 If you require more clarification you can use this [video](https://www.youtube.com/watch?v=7nxOZek1iGI) that describes the steps clearly.
 
-To check whether you are properly connected you can open the serial monitor and check if you get the correct values from the ultrasonic sensor by moving your hand above the sensor. 
+To check whether you are properly connected you can open the serial monitor and check if you get the correct values from the ultrasonic sensor by moving your hand above the sensor.
+
 ![Serial monitor](SerialMonitor.png)
  
 
