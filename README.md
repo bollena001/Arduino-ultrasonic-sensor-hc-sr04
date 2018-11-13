@@ -39,6 +39,6 @@ Next you will need to connect the ultrasonic sensor to the RGB LEDstrip, you can
 To check if the RGB LEDstrip is working accordingly you move your hand above the ultrasonic sensor at different distances, the RGB LEDstrip should then show different colours according to your code. 
 
 
-<img src="Groen.JPG" width="300">
-<img src="Oranje.JPG" width="300">
-<img src="Rood.JPG" width="300">
+<img src="Groen.JPG" width="300"> <img src="Oranje.JPG" width="300"> <img src="Rood.JPG" width="300">
+
+
