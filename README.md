@@ -12,9 +12,10 @@ For this tutorial you will need:
 - RGB LEDstrip that you can connect to the NodeMCU
 - four female jumper wires
 
-<img src="https://cdn-reichelt.de/bilder/web/xxl_ws/A300/DEBO_JT_ESP8266_01.png" width="400">
 
 ## Step 1 - Upload the code
+
+<img src="https://cdn-reichelt.de/bilder/web/xxl_ws/A300/DEBO_JT_ESP8266_01.png" width="400">
 
 Download the Arduino code file (ArduinoCode.ino) and open it in Arduino, then you upload this to your NodeMCU to control the sensor. Use the USB to micro-USB cable to power the NodeMCU. The NodeMCU is properly connected if a blue LED blinks one time when you plug in the USB. 
 
