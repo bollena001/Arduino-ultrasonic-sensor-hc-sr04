@@ -1,5 +1,5 @@
 # How to change RGB LEDstrip color by using the ultrasonic sensor
-_ Changing RGB LEDstrip color by using ultrasonic sensor.
+_Changing RGB LEDstrip color by using ultrasonic sensor._
 
 <img src="YouWillNeed.jpg" width="600">
 
