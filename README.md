@@ -22,6 +22,6 @@ If you require more clarification you can use this video: https://www.youtube.co
 Next you will need to connect the ultrasonic sensor to the RGB LEDstrip, you can establish this by connecting the ground from the RGB LEDstrip to the ground from the NodeMCU. Then you connect the bin on the RGB LEDstrip to the selected pin of your choice. In order to make it easier you can follow me by using pin D5. 
 
 ## Step 3 - Upload the code
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo 
 
+Download the Arduino code file 
 
