@@ -1,5 +1,5 @@
 # NodeMCU-ultrasonic-sensor-RGB-LEDstrip
-Changing the color from your RGB Led Strip by using the ultrasonic sensor.
+Changing the color from your RGB LEDstrip by using the ultrasonic sensor.
 
 <img src="YouWillNeed.jpg" width="600">
 
