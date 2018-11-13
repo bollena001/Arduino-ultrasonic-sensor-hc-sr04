@@ -21,7 +21,7 @@ Download the Arduino code file (ArduinoCode.ino) and open it in Arduino, then yo
 
 Next you connect the ground from the ultrasonic sensor to the ground from the NodeMCU by using the four female jumper wires. Subsequently you connect VCC on the ultrasonic sensor to the VU on the NodeMCU. Then you need to choose two seperate pins on the NodeMCU to connect the trigger and echo on the ultrasonic sensor. In my code I used pin D1 and D2 on the NodeMCU, in order to make this as easy as possible you can follow me in also using these pins. 
 
-![Serial monitor](UltrasonicSensor.jpg)
+![Serial monitor](UltrasonicSensor.JPG)
 
 If you require more clarification you can use this [video](https://www.youtube.com/watch?v=7nxOZek1iGI) that describes the steps clearly.
 
